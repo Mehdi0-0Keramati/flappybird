@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/flappybird/static/css/main.450c91aa.css",
+    "main.js": "/flappybird/static/js/main.37a4e746.js",
+    "static/media/Vazir-Black.ttf": "/flappybird/static/media/Vazir-Black.88dbe0e03df0e3071026.ttf",
+    "static/media/output-onlinegiftools.gif": "/flappybird/static/media/output-onlinegiftools.377aeb5e6984d20d4d78.gif",
+    "static/media/ground.webp": "/flappybird/static/media/ground.c9c5f92473b22b5dc713.webp",
+    "index.html": "/flappybird/index.html",
+    "main.450c91aa.css.map": "/flappybird/static/css/main.450c91aa.css.map",
+    "main.37a4e746.js.map": "/flappybird/static/js/main.37a4e746.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.450c91aa.css",
+    "static/js/main.37a4e746.js"
+  ]
+}
